@@ -39,12 +39,14 @@ class WhereAmI {
   }
 }
 ```
-Then, after compiling and running the code with `javac` and `java`,
+Then, after compiling and running the code with `javac` and `java`, which has an output as this:
+![Image](p4.png)
 run this command in the terminal from the directory where you made this file:
 ```
 scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 ```
-![Image](p4.png)
+If you `javac` and `java` it again, you'll see a different directory of this file:
+![Image](p5.png)
 
 ## Step5: SSH Keys
 Use the `ssh-keygen` command to save the private and public password in two files, which are `id_rsa` and `id_rsa.pub` respectively.
