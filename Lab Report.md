@@ -9,7 +9,7 @@ Go to website [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~ic
 Activate your account by resetting the password.
 
 Open the terminal on VScode.
-Enter ssh cs15lwi22ajn@ieng6.ucsd.edu 
+Enter `ssh cs15lwi22zz@ieng6.ucsd.edu` 
 Then input the password as it ask you to do so.
 You'll be connected to the server if the password is correct.
 ![Image](p2.png)
