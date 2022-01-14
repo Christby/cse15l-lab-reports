@@ -14,7 +14,7 @@ Then input the password as it ask you to do so.
 You'll be connected to the server if the password is correct.
 ![Image](p2.png)
 
-## Step3: Run Some Commands
+## Step3: Trying Some Commands
 Here are some specific useful commands to try:
 ```
 cd ~
@@ -27,7 +27,7 @@ cat /home/linux/ieng6/cs15lwi22/public/hello.txt
 ```
 ![Image](p3.png)
 
-## Step4: Moving Files over SSH with scp
+## Step4: Moving Files with scp
 Create a file on your computer called WhereAmI.java and put the following contents into it:
 ```
 class WhereAmI {
@@ -48,11 +48,11 @@ scp WhereAmI.java cs15lwi22zz@ieng6.ucsd.edu:~/
 If you `javac` and `java` it again, you'll see a different directory of this file:
 ![Image](p5.png)
 
-## Step5: SSH Keys
+## Step5: Setting an SSH Key
 Use the `ssh-keygen` command to save the private and public password in two files, which are `id_rsa` and `id_rsa.pub` respectively.
 After doing that, you'll be able to log in to the account on the terminla without the need to enter the password.
 ![Image](p6.png)
 
-## Step 6: Making Remote Running Even More Pleasant
+## Step 6: Optimizing Remote Running
 Edit the file and use commands to do whatever you feel comfortable with, such as using semicolons to run multiple commands on the same line in most terminals
 ![Image](p7.png)
