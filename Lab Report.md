@@ -52,8 +52,8 @@ If you `javac` and `java` it again, you'll see a different directory of this fil
 Use the `ssh-keygen` command to save the private and public password in two files, which are `id_rsa` and `id_rsa.pub` respectively.
 Then use `scp` to copy the public key to the `.ssh` dierctory.
 You'll be able to log in to the account on the terminla without the need to enter the password.
-![Image](p5.png)
+![Image](p6.png)
 
 ## Step 6: Making Remote Running Even More Pleasant
 Edit the file and use commands to do whatever you feel comfortable with, such as using semicolons to run multiple commands on the same line in most terminals
-![Image](p6.png)
+![Image](p7.png)
