@@ -54,5 +54,5 @@ After doing that, you'll be able to log in to the account on the terminla withou
 ![Image](p6.png)
 
 ## Step 6: Optimizing Remote Running
-Edit the file and use commands to do whatever you feel comfortable with, such as using semicolons to run multiple commands on the same line in most terminals
+Edit the file and use commands to do whatever you feel comfortable with.
 ![Image](p7.png)
