@@ -50,8 +50,7 @@ If you `javac` and `java` it again, you'll see a different directory of this fil
 
 ## Step5: SSH Keys
 Use the `ssh-keygen` command to save the private and public password in two files, which are `id_rsa` and `id_rsa.pub` respectively.
-Then use `scp` to copy the public key to the `.ssh` dierctory.
-You'll be able to log in to the account on the terminla without the need to enter the password.
+After doing that, you'll be able to log in to the account on the terminla without the need to enter the password.
 ![Image](p6.png)
 
 ## Step 6: Making Remote Running Even More Pleasant
