@@ -56,8 +56,9 @@ After doing that, you'll be able to log in to the account on the terminla withou
 ## Step 6: Optimizing Remote Running
 Edit the file and use commands to do whatever you feel comfortable with.
 ![Image](p7.png)
-For example, using the "upper arrow" and "enter" command to run the previous commands only includes 2 keystrokes, but typing 
+As the above image shows, using quotation marks at the end of ssh log in when running the commond on remote server
+and then exit can save 3 keystrokes.
+
+Also, using the "upper arrow" and "enter" command to run the previous commands only includes 2 keystrokes, but typing 
 ssh `ssh cs15lwi22aot@ieng6.ucsd.edu` includes 32 keystrokes. Therefore using the upper arrow is clearly a better choice.
 
-Also, as the above image shows, using quotation marks at the end of ssh log in when running the commond on remote server
-and then exit can save 3 keystrokes.
