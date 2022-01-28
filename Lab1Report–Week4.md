@@ -5,7 +5,7 @@ Screenshot of the code change diff from Github:
 ![Image](img1.png)
 
 Link to the test file:
-[Link] (https://github.com/Christby/markdown-parse/blob/main/test-file4.md)
+[Link](https://github.com/Christby/markdown-parse/blob/main/test-file4.md)
 
 Show the symptom of that failure-inducing input by showing the output of running the file at the command line for the version where it was failing:
 ![Image](img2.png)
@@ -20,7 +20,7 @@ Screenshot of the code change diff from Github:
 ![Image](img3.png)
 
 Link to the test file:
-[Link] ()
+[Link](https://github.com/Christby/markdown-parse/blob/main/test-file8.md)
 
 Show the symptom of that failure-inducing input by showing the output of running the file at the command line for the version where it was failing:
 ![Image](img4.png)
@@ -35,7 +35,7 @@ Screenshot of the code change diff from Github:
 ![Image](img5.png)
 
 Link to the test file:
-[Link] ()
+[Link]()
 
 Show the symptom of that failure-inducing input by showing the output of running the file at the command line for the version where it was failing:
 ![Image](img6.png)
