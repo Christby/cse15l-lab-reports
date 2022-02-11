@@ -1,7 +1,7 @@
 # Week6 Lab Report
 
 ## Step 1: Copying the whole markdown-parse directory to the ieng6 account
-Use the command `pwd` to check the markdown-parse directory and `ls` to ckeck all the files in it.
+Use the command `ls` to ckeck all the files in the markdown-parse directory.
 
 Then use the command `scp -r . cs15lwi22aot@ieng6.ucsd.edu:~/markdownparseCopy` to create a markdownCopy directory on the server and copy the markdown-parse directory recursively to it. 
 
