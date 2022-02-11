@@ -5,16 +5,16 @@ Use the command `pwd` to check the markdown-parse directory and `ls` to ckeck al
 
 Then use the command `scp -r . cs15lwi22aot@ieng6.ucsd.edu:~/markdownparseCopy` to create a markdownCopy directory on the server and copy the markdown-parse directory recursively to it. 
 
-![Image](pic1.1)
-![Image](pic1.2)
+![Image](pic1.1.png)
+![Image](pic1.2.png)
 
 
 ## Step 2: log in your ieng6 acount after copying the directory and compiling and running the tests for your repository
 Use the command `ssh cs15lwi22aot@ieng6.ucsd.edu` to log in the  account and change the working directory to markdownparseCopy by entering the command `cd mdcopy`
-![Image](pic2)
+![Image](pic2.png)
 
 Then use the command of compiling and running, which are `javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParse.java MarkdownParseTest.java` and `java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest` to run the JUnit tests on the server. 
-![Image](pic3)
+![Image](pic3.png)
 
 
 ## Step 3: run the tests in one line
@@ -22,5 +22,5 @@ Combine the commands in one line, which resulted in the command `scp -r . cs15lw
 
 Use this command to copy all the files to the remote server and run the JUnit tests.
 
-![Image](pic4.1)
-![Image](pic4.2)
+![Image](pic4.1.png)
+![Image](pic4.2.png)
