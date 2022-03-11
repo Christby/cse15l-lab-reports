@@ -1,5 +1,11 @@
 # Week8 Lab Report
 
+Link to my repository: 
+[Link](https://github.com/Christby/markdown-parse)
+
+Link to the repository our group reviewed:
+[Link](https://github.com/aldrincheung/markdown-parse)
+
 ## Snippet 1
 test:
 ![Image](p1.1.png)
